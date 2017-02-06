@@ -5,7 +5,7 @@ public class Principal {
 		// TODO Auto-generated method stub
 		
 		Persona pepe=new Persona();
-		pepe.setNombre("Pe");
+		pepe.setNombre("Per");
 		pepe.setPeso(45);
 		pepe.setEdad((byte) 1);
 		for (int centinela=1; centinela<129; centinela++){
